@@ -1,2 +1,2 @@
 # excel-challenge
-GATech Data Science Bootcamp Week 1 Homework
+Analyzing Kickstarter Campaign Data
